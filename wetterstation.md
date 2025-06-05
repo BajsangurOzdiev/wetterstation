@@ -130,13 +130,15 @@ Das Webinterface ist über die IP des ESP32 im Netzwerk aufrufbar (z. B. `http
 ---
 
 ## 5. Schaltplan 
-![schaltplan](schaltplan.png)
+![schaltplan](https://github.com/user-attachments/assets/5f426a92-fdcd-4fff-9321-1f6c50a556c7)
+
 ---
 ## 6. Schaltung
-![schaltung](schaltung.png)
+![schaltung](https://github.com/user-attachments/assets/018fa281-40d2-4cc8-ad30-6b853546d933)
 
 ## 7. Webinterface 
-![webinterface](webinterface.png)
+![webinterface](https://github.com/user-attachments/assets/5e9aaf52-c176-4105-aee6-f150da4cc43d)
+
 ## 8. Quellcode
 
 ```cpp
